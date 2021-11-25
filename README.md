@@ -3,7 +3,11 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Senthil</h1>
 <h3 align="center">I'm a Computer Science student and passionate about Web developing, Cloud Computing and open source projects!</h3>
 
-- 📫 How to reach me **aishwaryasenthil20012gmail.com**
+- 🌱 I’m currently trying to learn **some new skills**
+
+- 💬 Ask me about **anything! I may try to help you out!**
+
+- 📫 How to reach me **aishwaryasenthil2001@gmail.com**
 
 - ⚡ Fun fact **I think I'm friendly and Funny!**
 
