@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aishwarya Senthil</h1>
-<h3 align="center">I'm a Computer Science Undergrad, who is passionate about Web development and exciting open-source projects!</h3>
+<h3 align="center">I'm a Computer Science Graduate, who is passionate about learning, implementing and exciting open-source projects!</h3>
 
 - 🌱 I’m currently trying to learn **some new skills**
 
